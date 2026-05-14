@@ -49,8 +49,8 @@ DATABASE_URI = environ.get("DATABASE_URI", "mongodb+srv://psychoafx:Muneerrr@clu
 DATABASE_NAME = environ.get("DATABASE_NAME", "Cluster0")
 
 # Files index database url
-FILES_DATABASE = environ.get("FILES_DATABASE", "")
-COLLECTION_NAME = environ.get("COLLECTION_NAME", "jisshu")
+FILES_DATABASE = environ.get("FILES_DATABASE", "mongodb+srv://psychoafx:Muneerrr@cluster0.kucyrkw.mongodb.net/?appName=Cluster0")
+COLLECTION_NAME = environ.get("COLLECTION_NAME", "Cluster0")
 
 # Other Channel's
 SUPPORT_GROUP = int(environ.get("SUPPORT_GROUP", "-1002231187887"))
