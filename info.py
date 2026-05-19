@@ -38,8 +38,8 @@ CHANNELS = [
 ]
 
 # ForceSub Channel & Log Channels
-AUTH_CHANNEL = int(environ.get("AUTH_CHANNEL", "-1002231187887"))
-AUTH_REQ_CHANNEL = int(environ.get("AUTH_REQ_CHANNEL", "-1002231187887"))
+AUTH_CHANNEL = int(environ.get("AUTH_CHANNEL", "-1003832046796"))
+AUTH_REQ_CHANNEL = int(environ.get("AUTH_REQ_CHANNEL", "-1003832046796"))
 LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1003903607513"))
 LOG_API_CHANNEL = int(environ.get("LOG_API_CHANNEL", "-1003903607513"))
 LOG_VR_CHANNEL = int(environ.get("LOG_VR_CHANNEL", "-1003903607513"))
